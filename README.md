@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=H+a+r+s+h+M+i+s+h+r+a;Data+Analyst+%7C+AI%2FML+Enthusiast" alt="Harsh Mishra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Harsh+Mishra" alt="Harsh Mishra" />
 </p>
 
 
