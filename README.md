@@ -20,26 +20,12 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-```python
-class HarshMishra:
-    def __init__(self):
-        self.role = "Data Analyst | AI/ML Enthusiast"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "SQL"]
-        self.tools = ["Power BI", "Excel", "TensorFlow", "PyTorch"]
-        self.interests = [
-            "Data Science",
-            "Machine Learning",
-            "Generative AI",
-            "RAG",
-            "Deep Learning"
-        ]
-
-    def motto(self):
-        return "Learn. Build. Analyze. Repeat. 🚀"
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=35&pause=700&color=000000&center=true&vCenter=true&width=800&height=300&lines=class+HarshMishra%3A;++++def+__init__(self)%3A;++++++++self.role+%3D+%22Data+Analyst+%7C+AI%2FML+Enthusiast%22;++++++++self.location+%3D+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++++++self.languages+%3D+%5B%22Python%22%2C+%22SQL%22%5D;++++++++self.tools+%3D+%5B%22Power+BI%22%2C+%22Excel%22%5D;++++def+motto(self)%3A;++++++++return+%22Learn.+Build.+Analyze.+Repeat.%22;>>>+harsh+%3D+HarshMishra();>>>+print(harsh.motto());Learn.+Build.+Analyze.+Repeat.+%F0%9F%9A%80" alt="Animated Python code typing and output"/>
+</p>
 
 - 🔭 Interested in **Data Analytics, Data Science, AI/ML, and Generative AI**
 - 🌱 Currently improving my skills in **Machine Learning, Deep Learning, and RAG**
