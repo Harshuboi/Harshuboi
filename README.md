@@ -1,34 +1,45 @@
 
-<!-- 🌌 ANIMATED HEADER -->
+<!-- 🌌 BLACK ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harsh%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Animated profile header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=200&section=header&text=Harsh%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Black animated profile header"/>
 </p>
 
 <!-- ✨ ANIMATED NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Harsh+Mishra" alt="Harsh Mishra"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Harsh+Mishra" alt="Animated name"/>
 </p>
 
 <!-- 🚀 ANIMATED TAGLINES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Data+Science;AI%2FML+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+%F0%9F%9A%80;Building+Intelligent+AI+Applications" alt="Animated tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Data+Science;AI%2FML+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+%F0%9F%9A%80;Building+Intelligent+AI+Applications" alt="Animated tagline"/>
 </p>
 
+<!-- 👁️ PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshuboi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=harshuboi&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
+<!-- 🖤 SCROLLING-STYLE BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=500&color=000000&center=true&vCenter=true&width=800&lines=━━━━━━━━━━+DATA+%E2%9E%9C+AI+%E2%9E%9C+MACHINE+LEARNING+━━━━━━━━━━;━━━━━━━━━━+LEARN+%E2%9E%9C+BUILD+%E2%9E%9C+INNOVATE+━━━━━━━━━━" alt="Animated banner"/>
+</p>
 
 ## 👨‍💻 About Me
 
+```python
 class HarshMishra:
     def __init__(self):
         self.role = "Data Analyst | AI/ML Enthusiast"
         self.location = "India 🇮🇳"
         self.languages = ["Python", "SQL"]
-        self.tools = ["Power BI", "Excel", "TensorFlow", "PyTorch"]
+        self.tools = [
+            "Power BI",
+            "Excel",
+            "TensorFlow",
+            "PyTorch"
+        ]
         self.interests = [
             "Data Science",
             "Machine Learning",
@@ -40,6 +51,11 @@ class HarshMishra:
     def motto(self):
         return "Learn. Build. Analyze. Repeat. 🚀"
 
+
+harsh = HarshMishra()
+print(h harsh.motto())
+```
+
 - 🔭 Interested in **Data Analytics, Data Science, AI/ML, and Generative AI**
 - 🌱 Currently improving my skills in **Machine Learning, Deep Learning, and RAG**
 - 📊 I enjoy building dashboards and extracting meaningful insights from data
@@ -49,58 +65,64 @@ class HarshMishra:
 
 ---
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=700&color=000000&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Initializing+Tech+Stack...;%3E%3E%3E+Loading+Python%2C+SQL%2C+AI%2FML...;%3E%3E%3E+System+Ready+%E2%9C%85" alt="Tech stack loading animation"/>
+</p>
 
 ## ⚡ Tech Stack
 
+### 🐍 Languages & Data
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel&perline=4" width="300"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql&perline=4" alt="Python and MySQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=4" alt="Pandas and NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=4" alt="Machine learning and deep learning"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuv wow/200.gif" width="60"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/200.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.gif" width="60"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-666666?style=for-the-badge"/>
 </p>
+
+### 🛠️ Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch&perline=5" width="350"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit&perline=4" alt="Development tools"/>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/200.gif" width="60"/>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/200.gif" width="60"/>
-  <img src="https://media.giphy.com/media/2IudUHdI Weo8/200.gif" width="60"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit&perline=4" width="300"/>
-</p>
-
 
 ---
-
 
 ## 📊 Data Analytics & Visualization
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Insights;Exploring+Data+%7C+Cleaning+%7C+Visualizing;Building+Interactive+Dashboards" alt="Data analytics typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Insights;Exploring+Data+%7C+Cleaning+%7C+Visualizing;Building+Interactive+Dashboards" alt="Data analytics animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-1E90FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-00A86B?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Preprocessing-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-000000?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-222222?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Preprocessing-444444?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KPI_Reporting-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dashboard_Development-DB7093?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Data analytics animation"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Computer coding animation"/>
+  <img src="https://img.shields.io/badge/KPI_Reporting-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dashboard_Development-333333?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ### 🛠️ Analytics Toolkit
@@ -112,24 +134,23 @@ class HarshMishra:
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=F7931E&center=true&vCenter=true&width=500&lines=Excel+%E2%9E%9C+SQL+%E2%9E%9C+Python;Data+%E2%9E%9C+Insights+%E2%9E%9C+Impact" alt="Analytics workflow animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=000000&center=true&vCenter=true&width=500&lines=Excel+%E2%9E%9C+SQL+%E2%9E%9C+Python;Data+%E2%9E%9C+Insights+%E2%9E%9C+Impact" alt="Analytics workflow animation"/>
 </p>
 
 ---
 
-
 ## 🤖 Machine Learning & AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative_AI-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-666666?style=for-the-badge"/>
 </p>
 
 - Logistic Regression
@@ -142,10 +163,14 @@ class HarshMishra:
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=700&color=000000&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Loading+Featured+Projects...;%3E%3E%3E+Projects+Initialized+%E2%9C%85" alt="Projects loading animation"/>
+</p>
+
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Projects;Building+Data-Driven+Solutions;Creating+AI-Powered+Applications" alt="Project animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Projects;Building+Data-Driven+Solutions;Creating+AI-Powered+Applications" alt="Project animation"/>
 </p>
 
 | Project | Description |
@@ -161,7 +186,7 @@ class HarshMishra:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshuboi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshuboi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies"/>
 </p>
 
 ---
@@ -169,12 +194,12 @@ class HarshMishra:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshuboi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuboi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshuboi&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuboi&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshuboi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshuboi&theme=dark&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
@@ -189,27 +214,29 @@ class HarshMishra:
   </picture>
 </p>
 
+---
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-mishra-0b02a622b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/harshhaker45321">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-222222?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:harshhaker45321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Thank you animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Thank you animation"/>
 </p>
 
+<!-- 🖤 BLACK ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="Animated footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,50:222222,100:000000&height=120&section=footer&animation=fadeIn" width="100%" alt="Black animated footer"/>
 </p>
