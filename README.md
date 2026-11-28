@@ -81,23 +81,48 @@ class HarshMishra:
 
 ---
 
+
 ## 📊 Data Analytics & Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-1E90FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-00A86B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Preprocessing-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/KPI_Reporting-FF8C00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dashboard_Development-DB7093?style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Insights;Exploring+Data+%7C+Cleaning+%7C+Visualizing;Building+Interactive+Dashboards" alt="Data analytics typing animation"/>
 </p>
 
-- Microsoft Excel
-- Power BI
-- Pandas and NumPy
-- Matplotlib
-- MySQL and Oracle SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-1E90FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-00A86B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Preprocessing-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KPI_Reporting-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dashboard_Development-DB7093?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Data analytics animation"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Computer coding animation"/>
+</p>
+
+### 🛠️ Analytics Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy&perline=4" alt="Python, MySQL, Pandas and NumPy"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=F7931E&center=true&vCenter=true&width=500&lines=Excel+%E2%9E%9C+SQL+%E2%9E%9C+Python;Data+%E2%9E%9C+Insights+%E2%9E%9C+Impact" alt="Analytics workflow animation"/>
+</p>
 
 ---
+
 
 ## 🤖 Machine Learning & AI
 
