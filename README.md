@@ -26,12 +26,30 @@
 
 ### Programming Languages
 
+
 <p align="left">
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>
+
+  <!-- Machine Learning -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Machine Learning"/>
+
+  <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+
+  <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
 </p>
+
 
 
 ### Data Analytics and Visualization
