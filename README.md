@@ -51,54 +51,33 @@ class HarshMishra:
 ---
 
 
-## ⚡ Tech Arsenal
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DATA+%E2%9A%A1+AI+%E2%9A%A1+AUTOMATION;Turning+Data+Into+Intelligence;Building+With+Python+%26+AI" alt="Tech stack animation"/>
+  <img src="https://skillicons.dev/icons?i=python, mysql, powerbi, excel&perline=4" width="300"/>
 </p>
-
----
-
-### 🐍 Languages & Data
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-7B2FF7?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-00C853?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 📊 Analytics & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-FFD600?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-### 🧠 Generative AI & Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF00AA?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Workflow
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuv wow/200.gif" width="60"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/200.gif" width="60"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.gif" width="60"/>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch&perline=5" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/200.gif" width="60"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/200.gif" width="60"/>
+  <img src="https://media.giphy.com/media/2IudUHdI Weo8/200.gif" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit&perline=4" width="300"/>
+</p>
+
 
 ---
 
