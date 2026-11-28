@@ -218,17 +218,34 @@ print(h harsh.motto())
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-mishra-0b02a622b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/harshhaker45321">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-222222?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-222222?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:harshhaker45321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-mishra-0b02a622b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="65" alt="LinkedIn icon"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/harshhaker45321">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="65" alt="HackerRank icon"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:harshhaker45321@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="65" alt="Gmail icon"/>
   </a>
 </p>
 
@@ -237,6 +254,7 @@ print(h harsh.motto())
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Thank you animation"/>
 </p>
+
 
 <!-- 🖤 BLACK ANIMATED FOOTER -->
 <p align="center">
