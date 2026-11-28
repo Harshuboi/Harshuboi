@@ -21,10 +21,12 @@
 
 ---
 
-<!-- 🖤 SCROLLING-STYLE BANNER -->
+
+<!-- 🖤 ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=500&color=000000&center=true&vCenter=true&width=800&lines=━━━━━━━━━━+DATA+%E2%9E%9C+AI+%E2%9E%9C+MACHINE+LEARNING+━━━━━━━━━━;━━━━━━━━━━+LEARN+%E2%9E%9C+BUILD+%E2%9E%9C+INNOVATE+━━━━━━━━━━" alt="Animated banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=800&lines=DATA+%7C+AI+%7C+MACHINE+LEARNING;LEARN+%7C+BUILD+%7C+INNOVATE;PYTHON+%7C+SQL+%7C+POWER+BI" alt="Animated tech banner"/>
 </p>
+
 
 ## 👨‍💻 About Me
 
