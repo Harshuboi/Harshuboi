@@ -55,7 +55,7 @@ class HarshMishra:
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, mysql, powerbi, excel&perline=4" width="300"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel&perline=4" width="300"/>
 </p>
 
 <p align="center">
